@@ -3,8 +3,19 @@ div{
     justify-content: center;
     align-items: center;
     margin-top: 200px;
+    font-size: 40px;
+    font-style: italic;
     
 }
 
 
 
+#colorInput{
+    padding: 10px;
+    font-size: 20px;
+}
+
+button{
+    padding: 13px;
+    font-size: 16px;
+}
